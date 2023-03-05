@@ -1,3 +1,5 @@
 {
-  "doubleQuote": true
+  "doubleQuote": true,
+  "tabWidth": 4,
+  "printWidth": 120
 }
